@@ -1,0 +1,7 @@
+declare module "*express"
+declare module "*mongoose"
+declare module "*dotenv"
+declare module "*cors"
+declare module "*bcrypt"
+declare module "*multer"
+declare module "*cloudinary"
